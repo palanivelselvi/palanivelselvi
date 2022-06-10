@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-31T13:14:23 IST" name="Default suite" finished-at="2022-05-31T13:14:24 IST" duration-ms="323">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T13:14:23 IST" name="Default test" finished-at="2022-05-31T13:14:24 IST" duration-ms="323">
+      <class name="Jenkins.CICD.SeleniumTest">
+        <test-method signature="getdata1()[pri:0, instance:Jenkins.CICD.SeleniumTest@3e11f9e9]" started-at="2022-05-31T13:14:24 IST" name="getdata1" finished-at="2022-05-31T13:14:24 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata1 -->
+        <test-method signature="getdata2()[pri:0, instance:Jenkins.CICD.SeleniumTest@3e11f9e9]" started-at="2022-05-31T13:14:24 IST" name="getdata2" finished-at="2022-05-31T13:14:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata2 -->
+      </class> <!-- Jenkins.CICD.SeleniumTest -->
+      <class name="Jenkins.CICD.RestAPI">
+        <test-method signature="getdata3()[pri:0, instance:Jenkins.CICD.RestAPI@82de64a]" started-at="2022-05-31T13:14:24 IST" name="getdata3" finished-at="2022-05-31T13:14:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata3 -->
+        <test-method signature="getdata4()[pri:0, instance:Jenkins.CICD.RestAPI@82de64a]" started-at="2022-05-31T13:14:24 IST" name="getdata4" finished-at="2022-05-31T13:14:24 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata4 -->
+      </class> <!-- Jenkins.CICD.RestAPI -->
+      <class name="Jenkins.CICD.Appium">
+        <test-method signature="getdata5()[pri:0, instance:Jenkins.CICD.Appium@659499f1]" started-at="2022-05-31T13:14:24 IST" name="getdata5" finished-at="2022-05-31T13:14:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata5 -->
+        <test-method signature="getdata6()[pri:0, instance:Jenkins.CICD.Appium@659499f1]" started-at="2022-05-31T13:14:24 IST" name="getdata6" finished-at="2022-05-31T13:14:24 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata6 -->
+      </class> <!-- Jenkins.CICD.Appium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
